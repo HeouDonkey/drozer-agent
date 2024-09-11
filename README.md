@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 drozer-agent
 ======
 
@@ -40,3 +41,7 @@ drozer is Open Source software, made great by contributions from the community.
 For full source code, to report bugs, or to suggest features and contribute patches please see our Github project:
 
 [https://github.com/WithSecureLabs/drozer]
+=======
+# drozer-agent
+drozer agent with more permissions.
+>>>>>>> origin/main
